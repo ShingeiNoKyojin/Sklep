@@ -9,6 +9,8 @@ import model.Sklep;
 import model.Szkolenie;
 
 public class Menu {
+	
+	// dghdlngldgdfgdvvdf
 
 	public void wyswietlMenu() {
 		Sklep sklep = new Sklep("www.sklep.com");
